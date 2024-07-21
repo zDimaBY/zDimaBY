@@ -1,12 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=You+are+welcome)](https://git.io/typing-svg)
-
-# 👋 Hello, I'm zDimaBY
+# 👋 I'm zDimaBY
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zDimaBY&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zDimaBY&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 🚀 About Me
 I'm a passionate developer with a keen interest in system administration, automation, and web development. I love exploring new technologies and applying them to solve real-world problems.
 
 ## 🔧 Technologies & Tools
-- **Programming Languages:** Bash, PHP, C++, HTML, JS
+- **Programming Languages:** Shell, PHP, C++, HTML, JS
 - **Frameworks & Libraries:** Laravel, Arduino
 - **Tools:** Docker, Git, CI/CD, DevOps
 
@@ -30,5 +31,3 @@ A script that provides detailed information about a Linux system, including hard
 Feel free to explore my repositories and contribute. Let's collaborate and build something amazing together!
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zDimaBY&show_icons=true&theme=radical)
