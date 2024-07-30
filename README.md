@@ -12,13 +12,13 @@ I'm a passionate developer with a keen interest in system administration, automa
 - **Tools:** Docker, Git, CI/CD, DevOps
 
 ## 📂 My Projects
-### [auto_install_scripts](https://github.com/zDimaBY/auto_install_scripts)
+### [auto_install_scripts](https://github.com/zDimaBY/open_auto_install_scripts)
 A comprehensive guide and toolkit for configuring various software on Linux distributions, focusing on system administration and automation.
 
-### [iNavFlightControlWebServer](https://github.com/zDimaBY/iNavFlightControlWebServer)
+### [iNavFlightControlWebServer](https://github.com/zDimaBY/arduino_sketch/tree/main/iNav_Flight_Control_Web_Server)
 A project for controlling flight operations via a web browser.
 
-### [linuxinfo](https://github.com/zDimaBY/linuxinfo)
+### [linuxinfo](https://github.com/zDimaBY/open_auto_install_scripts)
 A script that provides detailed information about a Linux system, including hardware components, network data, and more.
 
 ## 🌟 Contributions & Achievements
@@ -31,3 +31,4 @@ A script that provides detailed information about a Linux system, including hard
 Feel free to explore my repositories and contribute. Let's collaborate and build something amazing together!
 
 ---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FzDimaBY&count_bg=%238F3DC8&title_bg=%23000000&icon=cliqz.svg&icon_color=%23E7E7E7&title=visits+day+%2F+total&edge_flat=false)](https://hits.seeyoufarm.com)
