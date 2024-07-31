@@ -21,6 +21,9 @@ A project for controlling flight operations via a web browser.
 ### [linuxinfo](https://github.com/zDimaBY/open_auto_install_scripts)
 A script that provides detailed information about a Linux system, including hardware components, network data, and more.
 
+### [OpenAI_for_binotel](https://github.com/zDimaBY/OpenAI_for_binotel)
+A plugin that via the OpenAI API generates a response for the client, and the chat advisor checks the OpenAI response and responds to the client.
+
 ## 🌟 Contributions & Achievements
 - Contributed to several open-source projects, enhancing features and fixing bugs.
 - Developed various scripts and tools that streamline and automate complex processes.
